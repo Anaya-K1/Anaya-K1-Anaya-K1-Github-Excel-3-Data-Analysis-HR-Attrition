@@ -62,12 +62,16 @@ The dashboard provides the following key insights:
 ## 📷 Dashboard:
 
 ##Dashboard:
-#pdf: https://github.com/Anaya-K1/Anaya-K1-Anaya-K1-Github-Excel-3-Data-Analysis-HR-Attrition/blob/50419e3d360cb19d5312f4fe911a248acf4f61f6/Anaya-K1%20Github%20Excel%203%20DA%20Dashboard%20-%20HR%20Attrition.pdf
-#jpeg: https://github.com/Anaya-K1/Anaya-K1-Anaya-K1-Github-Excel-3-Data-Analysis-HR-Attrition/blob/50419e3d360cb19d5312f4fe911a248acf4f61f6/Anaya-K1%20Github%20Excel%203%20DA%20Review%20Dashboard%20-%20HR%20Attrition.jpg
+
+-pdf: https://github.com/Anaya-K1/Anaya-K1-Anaya-K1-Github-Excel-3-Data-Analysis-HR-Attrition/blob/50419e3d360cb19d5312f4fe911a248acf4f61f6/Anaya-K1%20Github%20Excel%203%20DA%20Dashboard%20-%20HR%20Attrition.pdf
+
+-jpeg: https://github.com/Anaya-K1/Anaya-K1-Anaya-K1-Github-Excel-3-Data-Analysis-HR-Attrition/blob/50419e3d360cb19d5312f4fe911a248acf4f61f6/Anaya-K1%20Github%20Excel%203%20DA%20Review%20Dashboard%20-%20HR%20Attrition.jpg
 
 ##Dataset:
-#pdf: https://github.com/Anaya-K1/Anaya-K1-Anaya-K1-Github-Excel-3-Data-Analysis-HR-Attrition/blob/50419e3d360cb19d5312f4fe911a248acf4f61f6/Anaya-K1%20Github%20Excel%203%20DA%20Dataset%20-%20HR%20Attrition.pdf
-#Jpeg: https://github.com/Anaya-K1/Anaya-K1-Anaya-K1-Github-Excel-3-Data-Analysis-HR-Attrition/blob/50419e3d360cb19d5312f4fe911a248acf4f61f6/Anaya-K1%20Github%20Excel%203%20DA%20Review%20Dataset%20-%20HR%20Attrition.jpg
+
+-pdf: https://github.com/Anaya-K1/Anaya-K1-Anaya-K1-Github-Excel-3-Data-Analysis-HR-Attrition/blob/50419e3d360cb19d5312f4fe911a248acf4f61f6/Anaya-K1%20Github%20Excel%203%20DA%20Dataset%20-%20HR%20Attrition.pdf
+
+-jpeg: https://github.com/Anaya-K1/Anaya-K1-Anaya-K1-Github-Excel-3-Data-Analysis-HR-Attrition/blob/50419e3d360cb19d5312f4fe911a248acf4f61f6/Anaya-K1%20Github%20Excel%203%20DA%20Review%20Dataset%20-%20HR%20Attrition.jpg
 
 ORIGINAL EXCEL FILE SHALL BE PROVIDED ON REQUEST
 ---
